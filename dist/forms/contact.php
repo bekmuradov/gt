@@ -6,7 +6,7 @@
   */
 
   // Replace contact@example.com with your real receiving email address
-  $receiving_email_address = 'getcyberpresence@gmail.com';
+  $receiving_email_address = '';
 
   if( file_exists($php_email_form = '../assets/vendor/php-email-form/php-email-form.php' )) {
     include( $php_email_form );
@@ -26,9 +26,9 @@
   
   $contact->smtp = array(
     'host' => 'smtp.gmail.com',
-    'username' => 'getcyberpresence@gmail.com',
-    'password' => 'V4kZSBVAR745zdW',
-    'port' => '587'
+    'username' => '',
+    'password' => '',
+    'port' => ''
   );
 
   $contact->add_message( $_POST['name'], 'From');
