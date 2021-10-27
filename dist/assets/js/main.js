@@ -1,8 +1,8 @@
 /**
-* Template Name: BizLand - v1.1.0
-* Template URL: https://bootstrapmade.com/bizland-bootstrap-business-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+* Template Name: GetCyberPresence - v1.1.0
+* Template URL: https://getcyberpresence.com
+* Author: GetCyberPresence.com
+* License: undefined
 */
 !(function($) {
   "use strict";
